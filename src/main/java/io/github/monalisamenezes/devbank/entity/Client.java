@@ -1,4 +1,4 @@
-package com.monalisamenezes.devbank.entity;
+package io.github.monalisamenezes.devbank.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
